@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { ArrowRight } from 'lucide-react';
-import profileimage from '/Users/macbookpro/Desktop/port/Portfolio2/portfolio-cursor/image/profileimage.jpg';
+
 
 const AboutSummary = () => {
   return (
